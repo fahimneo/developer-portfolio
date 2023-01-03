@@ -1,0 +1,30 @@
+body{
+    font-family: 'Roboto', sans-serif; 
+    margin: 0;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.linked-button{
+    text-decoration: none;
+    color: rgb(199, 169, 219);
+    background-color: rgb(87, 30, 10);
+    padding: 10px 12px;
+    border-radius: 10px;
+    font-weight: 800;
+    background-image: linear-gradient(rgb(138, 93, 63), rgb(55, 78, 41));
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
